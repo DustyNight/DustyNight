@@ -1,6 +1,6 @@
 ### It's DustyNight here!
 
-- 🎓 'Bout to get my BSc in Computer Science in [OUC](http://eweb.ouc.edu.cn/)
+- 🎓 BSc in Computer Science in [OUC](http://eweb.ouc.edu.cn/)
 - 🥺 Feel so dumb.
 - 🛫 With dreams.
 - 📕 If you still want more, check my [blog](https://dustynight.github.io/). **NEARLY ZERO ENGLISH INSIDE, READY TO REMAKE**.
